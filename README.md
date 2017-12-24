@@ -19,3 +19,5 @@ python3 gui.py
 To start an older version of the graphics, run
 
 python3 ants_gui.py
+
+To play the game, simply right click on the ant and right click on an empty game tile in order to place the ants. The description of the different roles of ants is introduced in the project link above.
